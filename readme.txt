@@ -19,3 +19,8 @@ chipKIT Max32   https://www.digilentinc.com/Products/Detail.cfm?NavPath=2,892,89
 Basic I/O shield  https://www.digilentinc.com/Products/Detail.cfm?NavPath=2,892,936&Prod=CHIPKIT-BASIC-IO-SHIELD
 
 Network shield   https://www.digilentinc.com/Products/Detail.cfm?NavPath=2,892,942&Prod=CHIPKIT-NETWORK-SHIELD
+
+board diagrams from Fritzing
+
+http://fritzing.org/projectschipkit-max32
+http://fritzing.org/projectschipkit-boards
